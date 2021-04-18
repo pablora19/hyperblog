@@ -2,14 +2,7 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-    font-size: 16 px;
-    margin: 0;
-    padding: 0;
-}
-=======
-    font-family: "Arial";
+    font-family: "courier";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -23,7 +16,6 @@ body
     margin: 0;
     padding: 0.5em;
 }
->>>>>>> cabecera
 
 #container
 {
@@ -36,10 +28,5 @@ body
 
 #container h1
 {
-<<<<<<< HEAD
     font-size: 20 px;
 }
-=======
-    font-size: 20px;
-}
->>>>>>> cabecera
