@@ -4,4 +4,10 @@ AHora vamos a hacer un segundo cambio, para tener otra linea adicional de progra
 
 Esta seria una tercer version de lo que hemos hecho, incluye esta linea adicional, y retiramos algo de la segunda linea
 
+<<<<<<< HEAD
 Hay un cuarto cambio
+=======
+Hay un cuarto cambio
+
+Necesitamos generar un ultimo y quinto cambio #5C
+>>>>>>> cabecera

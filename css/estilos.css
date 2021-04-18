@@ -2,11 +2,28 @@ body
 {
     color: #333;
     text-align: center;
+<<<<<<< HEAD
     font-family: "Courier";
     font-size: 16 px;
     margin: 0;
     padding: 0;
 }
+=======
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 5px 30px 0px rgba (0,0,0,0.75)
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+>>>>>>> cabecera
 
 #container
 {
@@ -19,5 +36,10 @@ body
 
 #container h1
 {
+<<<<<<< HEAD
     font-size: 20 px;
 }
+=======
+    font-size: 20px;
+}
+>>>>>>> cabecera
